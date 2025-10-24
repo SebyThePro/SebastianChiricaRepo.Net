@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMA", "PMA\PMA.csproj", "{0306EE01-3252-4802-B104-7C89E2CB7383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0306EE01-3252-4802-B104-7C89E2CB7383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0306EE01-3252-4802-B104-7C89E2CB7383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0306EE01-3252-4802-B104-7C89E2CB7383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0306EE01-3252-4802-B104-7C89E2CB7383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
